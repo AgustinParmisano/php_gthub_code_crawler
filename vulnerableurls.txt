@@ -1,0 +1,9 @@
+
+---------------------------------------- 
+
+Vulnerable urls for repository 0x27/mrw-code 
+ 
+Web/music/seek/index.php
+Web/music/volume/index.php
+Web/music/add/index.php
+Web/music/artists/index.php
